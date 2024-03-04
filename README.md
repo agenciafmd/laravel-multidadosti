@@ -18,12 +18,11 @@ Para que a integração seja realizada, precisamos da **url da API**
 Por isso, é necessário colocar o endereço no nosso .env
 
 ```dotenv
-MULTIDADOSTI_API_URL=https://agenciafmd.secure.force.com/services/apexrest/LeadConnector
+MULTIDADOSTI_API_URL=https://xxxxxxxxx.multidadosti.com.br/webservices/rest/api.php?api_method=incluir_oc
 ```
 Caso seja necessária a autenticação, é necessário colocar fornecer os dados no nosso .env
 
 ```dotenv
-MULTIDADOSTI_API_AUTH=https://xxxxxxxxx.multidadosti.com.br/webservices/rest/api.php?api_method=incluir_oc
 MULTIDADOSTI_USERNAME=username@email.com
 MULTIDADOSTI_PASSWORD=sua_senha
 ```
