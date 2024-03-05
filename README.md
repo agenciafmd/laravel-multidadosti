@@ -20,7 +20,7 @@ Por isso, é necessário colocar o endereço no nosso .env
 ```dotenv
 MULTIDADOSTI_API_URL=https://xxxxxxxxx.multidadosti.com.br/webservices/rest/api.php?api_method=incluir_oc
 ```
-Caso seja necessária a autenticação, é necessário colocar fornecer os dados no nosso .env
+É necessário a autenticação, é necessário colocar fornecer os dados no nosso .env
 
 ```dotenv
 MULTIDADOSTI_AUTH_TOKEN=token
@@ -28,7 +28,7 @@ MULTIDADOSTI_USERNAME=username@email.com
 MULTIDADOSTI_PASSWORD=sua_senha
 ```
 
-```dotenv
+
 ## Uso
 
 Envie os campos no formato de array para o SendConversionsToMultidadosti.
