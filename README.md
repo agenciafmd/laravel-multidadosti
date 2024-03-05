@@ -1,6 +1,6 @@
 ## Laravel - Multidadosti
 
-[//]: # ([![Downloads]&#40;https://img.shields.io/packagist/dt/agenciafmd/laravel-multidadosti.svg?style=flat-square&#41;]&#40;https://packagist.org/packages/agenciafmd/laravel-multidadosti&#41;)
+[![Downloads](https://img.shields.io/packagist/dt/agenciafmd/laravel-multidadosti.svg?style=flat-square)](https://packagist.org/packages/agenciafmd/laravel-multidadosti)
 [![Licença](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 
 - Envia as conversões para a Multidadosti
