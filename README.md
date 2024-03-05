@@ -23,6 +23,7 @@ MULTIDADOSTI_API_URL=https://xxxxxxxxx.multidadosti.com.br/webservices/rest/api.
 Caso seja necessária a autenticação, é necessário colocar fornecer os dados no nosso .env
 
 ```dotenv
+MULTIDADOSTI_AUTH_TOKEN=token
 MULTIDADOSTI_USERNAME=username@email.com
 MULTIDADOSTI_PASSWORD=sua_senha
 ```
